@@ -1,0 +1,28 @@
+.image {
+    width: 400px;
+    height: auto;
+    border-radius: 40px;
+}
+ul {
+    color: blue;
+    font-size: 16px;
+    font-family: Georgia, serif;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+ol {
+    color: red;
+    font-size: 16px;
+    font-family: Georgia, serif;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+body {
+    background-color: lightgrey;
+}
